@@ -1,2 +1,1 @@
-# C30-bug
-ta nas tuas maos
+# C29-AA1
